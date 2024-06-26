@@ -26,19 +26,19 @@ The default theme color for this app is white, and the other theme color is blac
    # Before
 
 
-![The home screen before turning on the theme color toggle](MsApp/images/home_white.png)
+![The home screen before turning on the theme color toggle](rn-assignment5-11353306/images/home_white.png)
 - The Home Page
 
 
-![The settings screen before turning on the theme color toggle](MsApp/images/settings_white.png)
+![The settings screen before turning on the theme color toggle](rn-assignment5-11353306/images/settings_white.png)
 - The Settings Page
 
 
 
    # After
-![The home screen after turning on the theme color toggle](MsApp/images/home_black.png)
+![The home screen after turning on the theme color toggle](rn-assignment5-11353306/images/home_black.png)
 - The Home Page
 
 
-![The settings screen after turning on the theme color toggle](MsApp/images/settings_black.png)
+![The settings screen after turning on the theme color toggle](rn-assignment5-11353306/images/settings_black.png)
 - The Settings Page
